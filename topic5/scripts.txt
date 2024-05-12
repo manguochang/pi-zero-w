@@ -1,0 +1,6 @@
+# Install sense-hat python libraries
+sudo apt-get install sense-hat
+
+# SenseHat Error Workaround
+File: /boot/config.txt
+Change: dtoverlay=rpi-sense
