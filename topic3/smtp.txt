@@ -1,0 +1,4 @@
+smtp: mail.manguochang.com
+port: 587
+sender: test@manguochang.com
+password: Pa$$w0rd1234xyz
