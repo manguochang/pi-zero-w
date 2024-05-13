@@ -1,5 +1,5 @@
 # Install sense-hat python libraries
-sudo apt install sense-hat
+sudo apt install sense-hat -y
 
 # SenseHat Error Workaround
 File: /boot/config.txt
